@@ -1,0 +1,26 @@
+Matheus Braga Almeida 120038412
+Gabriel Filipe 120050935
+
+
+-Funcionalidades implementadas
+iniciar SDL e Lua
+Interação parcial entre jogo e script lua
+Colisão gravidade e movimentos basicos
+Funcionalidades para botões
+Mapa binario acompanhado de um script lua para gerar o mapa
+Multitask
+Carregamento de sprites via sheet ou em arquivos separados
+
+
+-Limitações
+Não possue suporte ou classe para audio ainda
+Colisão precisa ser revista
+
+
+
+-Como compilar
+Usando o GCC (atualizado) e o Codeblocks
+Necessario ter instalado SDL
+
+
+NÃO REDISTRIBUIR SEM CONSCENTIMENTO DO DONO!

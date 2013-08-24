@@ -1,0 +1,1000 @@
+# depslib dependency file v1.0
+1374698554 source:c:\users\mock\dropbox\projeej\effects.cpp
+	"effects.h"
+	<SDL/SDL_image.h>
+	"SDL_rotozoom.h"
+	"imageloader.h"
+
+1366126569 er.h"
+
+1374698530 c:\users\mock\dropbox\projeej\effects.h
+	"definitions.h"
+	<SDL/SDL.h>
+	"timer.h"
+	"objects.h"
+	"base.h"
+
+1368111433 "
+
+1374692481 source:c:\users\mock\dropbox\projeej\main.cpp
+	<iostream>
+	<sstream>
+	<stdint.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_thread.h>
+	<SDL/SDL_ttf.h>
+	<time.h>
+	<math.h>
+	"definitions.h"
+	"logs.h"
+	"luascript.h"
+	"imageloader.h"
+	"objects.h"
+	"effects.h"
+	"maploader.h"
+	"timer.h"
+	"keyboard.h"
+	"console.h"
+	"sound.h"
+	"polygon.h"
+	"particles.h"
+	<stdio.h>
+
+1374172058 c:\users\mock\dropbox\projeej\objects.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"definitions.h"
+	"imageloader.h"
+	"base.h"
+
+1365313692 c:\users\mock\dropbox\projeej\timer.h
+	"definitions.h"
+	<SDL/SDL.h>
+
+1365313692 >
+
+1374339142 source:c:\users\mock\dropbox\projeej\objects.cpp
+	"objects.h"
+	"logs.h"
+	"collision.h"
+	<string.h>
+	<math.h>
+	"SDL_rotozoom.h"
+	"console.h"
+
+1366731582 
+
+1371008372 source:c:\users\mock\dropbox\projeej\timer.cpp
+	"timer.h"
+
+1365043028 source:c:\users\mock\dropbox\projeej\resources.rc
+
+1374280219 source:c:\users\mock\dropbox\projeej\keyboard.cpp
+	"keyboard.h"
+	<math.h>
+	"logs.h"
+	"timer.h"
+
+1366252558 h"
+
+1374169656 c:\users\mock\dropbox\projeej\keyboard.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"objects.h"
+	"effects.h"
+	"maploader.h"
+	"definitions.h"
+	"console.h"
+	"luascript.h"
+	"particles.h"
+
+1368647333 .h"
+
+1374271871 c:\users\mock\dropbox\projeej\definitions.h
+
+1372202433 source:c:\users\mock\dropbox\projeej\imageloader.cpp
+	"imageloader.h"
+	"luascript.h"
+	<math.h>
+
+1372136446 c:\users\mock\dropbox\projeej\imageloader.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1366121810 mage.h>
+
+1373218405 source:c:\users\mock\dropbox\projeej\maploader.cpp
+	"maploader.h"
+	"logs.h"
+
+1373217626 c:\users\mock\dropbox\projeej\maploader.h
+	"objects.h"
+	"effects.h"
+	"collision.h"
+
+1374526944 c:\users\mock\dropbox\projeej\collision.h
+	<stdint.h>
+	"objects.h"
+
+1374526924 source:c:\users\mock\dropbox\projeej\collision.cpp
+	<stdlib.h>
+	"collision.h"
+
+1366045651 source:c:\users\mock\dropbox\projeej\copia de projeej\collision.cpp
+	<stdlib.h>
+	"collision.h"
+
+1366048407 c:\users\mock\dropbox\projeej\copia de projeej\collision.h
+	<stdint.h>
+
+1366251708 source:c:\users\mock\dropbox\projeej\copia de projeej\imageloader.cpp
+	"imageloader.h"
+	<math.h>
+
+1366121810 c:\users\mock\dropbox\projeej\copia de projeej\imageloader.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1366252194 source:c:\users\mock\dropbox\projeej\copia de projeej\keyboard.cpp
+	"keyboard.h"
+
+1365522097 c:\users\mock\dropbox\projeej\copia de projeej\keyboard.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"objects.h"
+	"effects.h"
+	"maploader.h"
+	"definitions.h"
+
+1365522097 ns.h"
+
+1366121919 c:\users\mock\dropbox\projeej\copia de projeej\objects.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"definitions.h"
+	"imageloader.h"
+
+1366048288 c:\users\mock\dropbox\projeej\copia de projeej\effects.h
+	"definitions.h"
+	<SDL/SDL.h>
+	"timer.h"
+	"objects.h"
+
+1366252459 c:\users\mock\dropbox\projeej\copia de projeej\definitions.h
+
+1365313692 c:\users\mock\dropbox\projeej\copia de projeej\timer.h
+	"definitions.h"
+	<SDL/SDL.h>
+
+1365686336 c:\users\mock\dropbox\projeej\copia de projeej\maploader.h
+	"objects.h"
+	"effects.h"
+	"collision.h"
+
+1366252251 source:c:\users\mock\dropbox\projeej\copia de projeej\maploader.cpp
+	"maploader.h"
+
+1366121918 source:c:\users\mock\dropbox\projeej\copia de projeej\objects.cpp
+	"objects.h"
+	<string.h>
+	<math.h>
+
+1365043028 source:c:\users\mock\dropbox\projeej\copia de projeej\resources.rc
+
+1365313689 source:c:\users\mock\dropbox\projeej\copia de projeej\timer.cpp
+	"timer.h"
+
+1366126569 source:c:\users\mock\dropbox\projeej\copia de projeej\effects.cpp
+	"effects.h"
+	<SDL/SDL_image.h>
+	"imageloader.h"
+
+1366252558 source:c:\users\mock\dropbox\projeej\copia de projeej\main.cpp
+	<iostream>
+	<sstream>
+	<stdint.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_thread.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<time.h>
+	"definitions.h"
+	"imageloader.h"
+	"objects.h"
+	"effects.h"
+	"maploader.h"
+	"timer.h"
+	"keyboard.h"
+
+1366731572 c:\users\mock\dropbox\projeej\player.h
+	"objects.h"
+
+1366731582 source:c:\users\mock\dropbox\projeej\player.cpp
+	"player.h"
+
+1374614916 source:c:\users\mock\dropbox\projeej\console.cpp
+	"console.h"
+
+1374509271 c:\users\mock\dropbox\projeej\console.h
+	"objects.h"
+
+1374693102 c:\users\mock\dropbox\projeej\luascript.h
+	"objects.h"
+	"maploader.h"
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+
+1374710300 source:c:\users\mock\dropbox\projeej\luascript.cpp
+	<iostream>
+	"luascript.h"
+	"console.h"
+	"keyboard.h"
+	"logs.h"
+	"lua.hpp"
+	"polygon.h"
+	"definitions.h"
+	"particles.h"
+	"sound.h"
+
+1370196907 source:/home/mock/projeej/collision.cpp
+	<stdlib.h>
+	"collision.h"
+
+1370196900 /home/mock/projeej/collision.h
+	<stdint.h>
+	"objects.h"
+
+1369844651 /home/mock/projeej/objects.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"definitions.h"
+	"imageloader.h"
+
+1369851804 /home/mock/projeej/definitions.h
+
+1370199103 /home/mock/projeej/imageloader.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1369844253 source:/home/mock/projeej/console.cpp
+	"console.h"
+
+1368111433 /home/mock/projeej/console.h
+	"objects.h"
+
+1369845183 source:/home/mock/projeej/effects.cpp
+	"effects.h"
+	<SDL/SDL_image.h>
+	"imageloader.h"
+
+1369844957 /home/mock/projeej/effects.h
+	"definitions.h"
+	<SDL/SDL.h>
+	"timer.h"
+	"objects.h"
+
+1365313692 /home/mock/projeej/timer.h
+	"definitions.h"
+	<SDL/SDL.h>
+
+1370199118 source:/home/mock/projeej/imageloader.cpp
+	"imageloader.h"
+	<math.h>
+
+1370203334 source:/home/mock/projeej/keyboard.cpp
+	"keyboard.h"
+	<math.h>
+
+1368547411 /home/mock/projeej/keyboard.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"objects.h"
+	"effects.h"
+	"maploader.h"
+	"definitions.h"
+	"player.h"
+	"console.h"
+	"luascript.h"
+
+1369851868 /home/mock/projeej/maploader.h
+	"objects.h"
+	"effects.h"
+	"collision.h"
+
+1366731572 /home/mock/projeej/player.h
+	"objects.h"
+
+1370203725 /home/mock/projeej/luascript.h
+	"lua5.1/lua.h"
+	"lua5.1/lualib.h"
+	"lua5.1/lauxlib.h"
+	"objects.h"
+	"maploader.h"
+
+1370203977 source:/home/mock/projeej/luascript.cpp
+	<iostream>
+	"luascript.h"
+	"console.h"
+	"keyboard.h"
+	"lua5.1/lua.hpp"
+
+1370199082 source:/home/mock/projeej/main.cpp
+	<iostream>
+	<sstream>
+	<stdint.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_thread.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<time.h>
+	<math.h>
+	"definitions.h"
+	"luascript.h"
+	"imageloader.h"
+	"objects.h"
+	"effects.h"
+	"maploader.h"
+	"timer.h"
+	"keyboard.h"
+	"player.h"
+	"console.h"
+
+1369845666 source:/home/mock/projeej/maploader.cpp
+	"maploader.h"
+
+1370202235 source:/home/mock/projeej/objects.cpp
+	"objects.h"
+	<string.h>
+	<math.h>
+
+1366731582 source:/home/mock/projeej/player.cpp
+	"player.h"
+
+1365043028 source:/home/mock/projeej/resources.rc
+
+1365313689 source:/home/mock/projeej/timer.cpp
+	"timer.h"
+
+1370196907 source:l:\projeej\collision.cpp
+	<stdlib.h>
+	"collision.h"
+
+1370196900 l:\projeej\collision.h
+	<stdint.h>
+	"objects.h"
+
+1369844651 l:\projeej\objects.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"definitions.h"
+	"imageloader.h"
+
+1369851804 l:\projeej\definitions.h
+
+1370199103 l:\projeej\imageloader.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1369844253 source:l:\projeej\console.cpp
+	"console.h"
+
+1368111433 l:\projeej\console.h
+	"objects.h"
+
+1369845183 source:l:\projeej\effects.cpp
+	"effects.h"
+	<SDL/SDL_image.h>
+	"imageloader.h"
+
+1369844957 l:\projeej\effects.h
+	"definitions.h"
+	<SDL/SDL.h>
+	"timer.h"
+	"objects.h"
+
+1365313692 l:\projeej\timer.h
+	"definitions.h"
+	<SDL/SDL.h>
+
+1370199118 source:l:\projeej\imageloader.cpp
+	"imageloader.h"
+	<math.h>
+
+1370203334 source:l:\projeej\keyboard.cpp
+	"keyboard.h"
+	<math.h>
+
+1368547411 l:\projeej\keyboard.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"objects.h"
+	"effects.h"
+	"maploader.h"
+	"definitions.h"
+	"player.h"
+	"console.h"
+	"luascript.h"
+
+1369851868 l:\projeej\maploader.h
+	"objects.h"
+	"effects.h"
+	"collision.h"
+
+1366731572 l:\projeej\player.h
+	"objects.h"
+
+1370214782 l:\projeej\luascript.h
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+	"objects.h"
+	"maploader.h"
+
+1370214786 source:l:\projeej\luascript.cpp
+	<iostream>
+	"luascript.h"
+	"console.h"
+	"keyboard.h"
+	"lua.hpp"
+
+1370215267 source:l:\projeej\main.cpp
+	<iostream>
+	<sstream>
+	<stdint.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_thread.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<time.h>
+	<math.h>
+	"definitions.h"
+	"luascript.h"
+	"imageloader.h"
+	"objects.h"
+	"effects.h"
+	"maploader.h"
+	"timer.h"
+	"keyboard.h"
+	"player.h"
+	"console.h"
+
+1369845666 source:l:\projeej\maploader.cpp
+	"maploader.h"
+
+1370202235 source:l:\projeej\objects.cpp
+	"objects.h"
+	<string.h>
+	<math.h>
+
+1366731582 source:l:\projeej\player.cpp
+	"player.h"
+
+1365043028 source:l:\projeej\resources.rc
+
+1365313689 source:l:\projeej\timer.cpp
+	"timer.h"
+
+1370196907 source:c:\users\mock\desktop\projeej\collision.cpp
+	<stdlib.h>
+	"collision.h"
+
+1370196900 c:\users\mock\desktop\projeej\collision.h
+	<stdint.h>
+	"objects.h"
+
+1369844651 c:\users\mock\desktop\projeej\objects.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"definitions.h"
+	"imageloader.h"
+
+1369851804 c:\users\mock\desktop\projeej\definitions.h
+
+1370199103 c:\users\mock\desktop\projeej\imageloader.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1370222235 source:c:\users\mock\desktop\projeej\console.cpp
+	"console.h"
+
+1370221817 c:\users\mock\desktop\projeej\console.h
+	"objects.h"
+
+1369845183 source:c:\users\mock\desktop\projeej\effects.cpp
+	"effects.h"
+	<SDL/SDL_image.h>
+	"imageloader.h"
+
+1369844957 c:\users\mock\desktop\projeej\effects.h
+	"definitions.h"
+	<SDL/SDL.h>
+	"timer.h"
+	"objects.h"
+
+1365313692 c:\users\mock\desktop\projeej\timer.h
+	"definitions.h"
+	<SDL/SDL.h>
+
+1370199118 source:c:\users\mock\desktop\projeej\imageloader.cpp
+	"imageloader.h"
+	<math.h>
+
+1370222868 source:c:\users\mock\desktop\projeej\keyboard.cpp
+	"keyboard.h"
+	<math.h>
+
+1368547411 c:\users\mock\desktop\projeej\keyboard.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"objects.h"
+	"effects.h"
+	"maploader.h"
+	"definitions.h"
+	"player.h"
+	"console.h"
+	"luascript.h"
+
+1369851868 c:\users\mock\desktop\projeej\maploader.h
+	"objects.h"
+	"effects.h"
+	"collision.h"
+
+1366731572 c:\users\mock\desktop\projeej\player.h
+	"objects.h"
+
+1370221847 c:\users\mock\desktop\projeej\luascript.h
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+	"objects.h"
+	"maploader.h"
+
+1370222978 source:c:\users\mock\desktop\projeej\luascript.cpp
+	<iostream>
+	"luascript.h"
+	"console.h"
+	"keyboard.h"
+	"lua.hpp"
+
+1369845666 source:c:\users\mock\desktop\projeej\maploader.cpp
+	"maploader.h"
+
+1370202235 source:c:\users\mock\desktop\projeej\objects.cpp
+	"objects.h"
+	<string.h>
+	<math.h>
+
+1366731582 source:c:\users\mock\desktop\projeej\player.cpp
+	"player.h"
+
+1365043028 source:c:\users\mock\desktop\projeej\resources.rc
+
+1365313689 source:c:\users\mock\desktop\projeej\timer.cpp
+	"timer.h"
+
+1370222784 source:c:\users\mock\desktop\projeej\main.cpp
+	<iostream>
+	<sstream>
+	<stdint.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_thread.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<time.h>
+	<math.h>
+	"definitions.h"
+	"luascript.h"
+	"imageloader.h"
+	"objects.h"
+	"effects.h"
+	"maploader.h"
+	"timer.h"
+	"keyboard.h"
+	"player.h"
+	"console.h"
+
+1374336954 source:c:\users\mock\dropbox\projeej\logs.cpp
+	"logs.h"
+	<cstdio>
+
+1372788783 c:\users\mock\dropbox\projeej\logs.h
+	"definitions.h"
+	<stdlib.h>
+	<stdio.h>
+
+1374427867 c:\users\mock\dropbox\projeej\sound.h
+	"SDL.h"
+	"SDL/SDL_audio.h"
+	"base.h"
+	<SDL/SDL_mixer.h>
+
+1374428279 source:c:\users\mock\dropbox\projeej\sound.cpp
+	"sound.h"
+
+1373482497 c:\users\mock\dropbox\projeej\polygon.h
+	<SDL.h>
+	"definitions.h"
+	"base.h"
+
+1374692635 source:c:\users\mock\dropbox\projeej\polygon.cpp
+	"polygon.h"
+	<stdlib.h>
+	"SDL_gfxPrimitives.h"
+
+1374423432 c:\users\mock\dropbox\projeej\base.h
+	"imageloader.h"
+
+1374339381 c:\users\mock\dropbox\projeej\particles.h
+	"polygon.h"
+	"base.h"
+	"math.h"
+	<stdlib.h>
+
+1374169834 source:c:\users\mock\dropbox\projeej\particles.cpp
+	"particles.h"
+
+1374334687 source:c:\users\gabriel filipe\dropbox\projeej\collision.cpp
+	<stdlib.h>
+	"collision.h"
+
+1374334697 c:\users\gabriel filipe\dropbox\projeej\collision.h
+	<stdint.h>
+	"objects.h"
+
+1374172058 c:\users\gabriel filipe\dropbox\projeej\objects.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"definitions.h"
+	"imageloader.h"
+	"base.h"
+
+1374271871 c:\users\gabriel filipe\dropbox\projeej\definitions.h
+
+1372136446 c:\users\gabriel filipe\dropbox\projeej\imageloader.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1374423432 c:\users\gabriel filipe\dropbox\projeej\base.h
+	"imageloader.h"
+
+1372788678 source:c:\users\gabriel filipe\dropbox\projeej\console.cpp
+	"console.h"
+
+1372772897 c:\users\gabriel filipe\dropbox\projeej\console.h
+	"objects.h"
+
+1373218113 source:c:\users\gabriel filipe\dropbox\projeej\effects.cpp
+	"effects.h"
+	<SDL/SDL_image.h>
+	"imageloader.h"
+
+1374172054 c:\users\gabriel filipe\dropbox\projeej\effects.h
+	"definitions.h"
+	<SDL/SDL.h>
+	"timer.h"
+	"objects.h"
+	"base.h"
+
+1365313692 c:\users\gabriel filipe\dropbox\projeej\timer.h
+	"definitions.h"
+	<SDL/SDL.h>
+
+1372202433 source:c:\users\gabriel filipe\dropbox\projeej\imageloader.cpp
+	"imageloader.h"
+	"luascript.h"
+	<math.h>
+
+1374273454 c:\users\gabriel filipe\dropbox\projeej\luascript.h
+	"objects.h"
+	"maploader.h"
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+
+1373217626 c:\users\gabriel filipe\dropbox\projeej\maploader.h
+	"objects.h"
+	"effects.h"
+	"collision.h"
+
+1374280219 source:c:\users\gabriel filipe\dropbox\projeej\keyboard.cpp
+	"keyboard.h"
+	<math.h>
+	"logs.h"
+	"timer.h"
+
+1374169656 c:\users\gabriel filipe\dropbox\projeej\keyboard.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"objects.h"
+	"effects.h"
+	"maploader.h"
+	"definitions.h"
+	"console.h"
+	"luascript.h"
+	"particles.h"
+
+1374339381 c:\users\gabriel filipe\dropbox\projeej\particles.h
+	"polygon.h"
+	"base.h"
+	"math.h"
+	<stdlib.h>
+
+1373482497 c:\users\gabriel filipe\dropbox\projeej\polygon.h
+	<SDL.h>
+	"definitions.h"
+	"base.h"
+
+1372788783 c:\users\gabriel filipe\dropbox\projeej\logs.h
+	"definitions.h"
+	<stdlib.h>
+	<stdio.h>
+
+1374336954 source:c:\users\gabriel filipe\dropbox\projeej\logs.cpp
+	"logs.h"
+	<cstdio>
+
+1374426430 source:c:\users\gabriel filipe\dropbox\projeej\luascript.cpp
+	<iostream>
+	"luascript.h"
+	"console.h"
+	"keyboard.h"
+	"logs.h"
+	"lua.hpp"
+	"polygon.h"
+	"definitions.h"
+	"particles.h"
+	"sound.h"
+
+1374428709 source:c:\users\gabriel filipe\dropbox\projeej\main.cpp
+	<iostream>
+	<sstream>
+	<stdint.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_thread.h>
+	<SDL/SDL_ttf.h>
+	<time.h>
+	<math.h>
+	"definitions.h"
+	"logs.h"
+	"luascript.h"
+	"imageloader.h"
+	"objects.h"
+	"effects.h"
+	"maploader.h"
+	"timer.h"
+	"keyboard.h"
+	"console.h"
+	"sound.h"
+	"polygon.h"
+	"particles.h"
+	<stdio.h>
+
+1374427867 c:\users\gabriel filipe\dropbox\projeej\sound.h
+	"SDL.h"
+	"SDL/SDL_audio.h"
+	"base.h"
+	<SDL/SDL_mixer.h>
+
+1373218405 source:c:\users\gabriel filipe\dropbox\projeej\maploader.cpp
+	"maploader.h"
+	"logs.h"
+
+1374339179 source:c:\users\gabriel filipe\dropbox\projeej\objects.cpp
+	"objects.h"
+	"logs.h"
+	"collision.h"
+	<string.h>
+	<math.h>
+	"SDL_rotozoom.h"
+	"console.h"
+
+1374169834 source:c:\users\gabriel filipe\dropbox\projeej\particles.cpp
+	"particles.h"
+
+1373484513 source:c:\users\gabriel filipe\dropbox\projeej\polygon.cpp
+	"polygon.h"
+	<stdlib.h>
+	"SDL_gfxPrimitives.h"
+
+1365043028 source:c:\users\gabriel filipe\dropbox\projeej\resources.rc
+
+1365313689 source:c:\users\gabriel filipe\dropbox\projeej\timer.cpp
+	"timer.h"
+
+1374428279 source:c:\users\gabriel filipe\dropbox\projeej\sound.cpp
+	"sound.h"
+
+1374526924 source:c:\users\mock\dropbox\projeej\src\collision.cpp
+	<stdlib.h>
+	"collision.h"
+
+1374526944 c:\users\mock\dropbox\projeej\src\collision.h
+	<stdint.h>
+	"objects.h"
+
+1374172058 c:\users\mock\dropbox\projeej\src\objects.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"definitions.h"
+	"imageloader.h"
+	"base.h"
+
+1374271871 c:\users\mock\dropbox\projeej\src\definitions.h
+
+1372136446 c:\users\mock\dropbox\projeej\src\imageloader.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1374423432 c:\users\mock\dropbox\projeej\src\base.h
+	"imageloader.h"
+
+1374614916 source:c:\users\mock\dropbox\projeej\src\console.cpp
+	"console.h"
+
+1374509271 c:\users\mock\dropbox\projeej\src\console.h
+	"objects.h"
+
+1374698554 source:c:\users\mock\dropbox\projeej\src\effects.cpp
+	"effects.h"
+	<SDL/SDL_image.h>
+	"SDL_rotozoom.h"
+	"imageloader.h"
+
+1374698530 c:\users\mock\dropbox\projeej\src\effects.h
+	"definitions.h"
+	<SDL/SDL.h>
+	"timer.h"
+	"objects.h"
+	"base.h"
+
+1365313692 c:\users\mock\dropbox\projeej\src\timer.h
+	"definitions.h"
+	<SDL/SDL.h>
+
+1372202433 source:c:\users\mock\dropbox\projeej\src\imageloader.cpp
+	"imageloader.h"
+	"luascript.h"
+	<math.h>
+
+1374693102 c:\users\mock\dropbox\projeej\src\luascript.h
+	"objects.h"
+	"maploader.h"
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+
+1373217626 c:\users\mock\dropbox\projeej\src\maploader.h
+	"objects.h"
+	"effects.h"
+	"collision.h"
+
+1374280219 source:c:\users\mock\dropbox\projeej\src\keyboard.cpp
+	"keyboard.h"
+	<math.h>
+	"logs.h"
+	"timer.h"
+
+1374169656 c:\users\mock\dropbox\projeej\src\keyboard.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"objects.h"
+	"effects.h"
+	"maploader.h"
+	"definitions.h"
+	"console.h"
+	"luascript.h"
+	"particles.h"
+
+1374339381 c:\users\mock\dropbox\projeej\src\particles.h
+	"polygon.h"
+	"base.h"
+	"math.h"
+	<stdlib.h>
+
+1373482497 c:\users\mock\dropbox\projeej\src\polygon.h
+	<SDL.h>
+	"definitions.h"
+	"base.h"
+
+1372788783 c:\users\mock\dropbox\projeej\src\logs.h
+	"definitions.h"
+	<stdlib.h>
+	<stdio.h>
+
+1374336954 source:c:\users\mock\dropbox\projeej\src\logs.cpp
+	"logs.h"
+	<cstdio>
+
+1376872138 source:c:\users\mock\dropbox\projeej\src\luascript.cpp
+	<iostream>
+	"luascript.h"
+	"console.h"
+	"keyboard.h"
+	"logs.h"
+	"lua.hpp"
+	"polygon.h"
+	"definitions.h"
+	"particles.h"
+	"sound.h"
+
+1374427867 c:\users\mock\dropbox\projeej\src\sound.h
+	"SDL.h"
+	"SDL/SDL_audio.h"
+	"base.h"
+	<SDL/SDL_mixer.h>
+
+1374692481 source:c:\users\mock\dropbox\projeej\src\main.cpp
+	<iostream>
+	<sstream>
+	<stdint.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_thread.h>
+	<SDL/SDL_ttf.h>
+	<time.h>
+	<math.h>
+	"definitions.h"
+	"logs.h"
+	"luascript.h"
+	"imageloader.h"
+	"objects.h"
+	"effects.h"
+	"maploader.h"
+	"timer.h"
+	"keyboard.h"
+	"console.h"
+	"sound.h"
+	"polygon.h"
+	"particles.h"
+	<stdio.h>
+
+1373218405 source:c:\users\mock\dropbox\projeej\src\maploader.cpp
+	"maploader.h"
+	"logs.h"
+
+1374339142 source:c:\users\mock\dropbox\projeej\src\objects.cpp
+	"objects.h"
+	"logs.h"
+	"collision.h"
+	<string.h>
+	<math.h>
+	"SDL_rotozoom.h"
+	"console.h"
+
+1374169834 source:c:\users\mock\dropbox\projeej\src\particles.cpp
+	"particles.h"
+
+1374692635 source:c:\users\mock\dropbox\projeej\src\polygon.cpp
+	"polygon.h"
+	<stdlib.h>
+	"SDL_gfxPrimitives.h"
+
+1365043028 source:c:\users\mock\dropbox\projeej\src\resources.rc
+
+1374428279 source:c:\users\mock\dropbox\projeej\src\sound.cpp
+	"sound.h"
+
+1371008372 source:c:\users\mock\dropbox\projeej\src\timer.cpp
+	"timer.h"
+

@@ -1,0 +1,29 @@
+#include "SDL.h"
+#include "SDL_audio.h"
+#include <SDL/SDL_mixer.h>
+#ifndef _SOUNDH_
+
+#define _SOUNDH_
+
+class Sound{
+        Mix_Chunk *chunk;
+        Mix_Music *music;
+        int channel,type, volume;
+        bool fail, paused, halted;
+    public:
+        Sound(char *s,int type);
+        ~Sound();
+        void play();
+        void play(int);
+        void play(int,int);
+        void pause();
+        void pause(int);
+        int Sound::getVolume();
+        void Sound::setVolume(int volume);
+        void Sound::increaseVolume(int amount);
+        void Sound::decreaseVolume(int amount);
+};
+
+    //Mix_Chunk *burr  = Mix_LoadWAV( "data/burr.wav" );
+    //Mix_PlayChannel( -1, burr, 0 );
+#endif // _SOUNDH_
